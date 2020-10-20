@@ -18,7 +18,7 @@
         </div>
     @endif
 
-    <table class="table table-bordered table-responsive-lg">
+    <table class="table table-bordered table-responsive-lg"> 
         <tr>
             <th>No</th>
             <th>Name</th>

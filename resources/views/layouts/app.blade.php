@@ -40,7 +40,7 @@
             <!-- Page Heading -->
             <header class="bg-white shadow">
                 <div class="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8">
-                    {{ $header }}
+                    {{ 'Product List -  Not seeing much? No worries...more to come!' }}
                 </div>
             </header>   
         </div>
@@ -52,6 +52,7 @@
         <div class="container">
             @yield('content')
         </div>
+        
         <div class="text-center footer">
             <h4>Laravel 8 Newbie</h4>
             <h4>tpowers88@outlook.com</h4>
